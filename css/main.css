@@ -2,10 +2,12 @@ body {
   margin: 60px auto;
   width: 70%;
   background-color: #66CCFF:
+  
 }
 h1 {
   font-size: 3em;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  color:red;
 }
 p {
   font-size: 1.5em;
