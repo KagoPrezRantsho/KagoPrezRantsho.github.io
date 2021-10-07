@@ -3,7 +3,7 @@ LAB 1 PROJET
 ## Creating Pages repository
 Adding diferent file types
 ### Desgning websites
-Using 
--HTML 
--CSS 
--JEKYLL MArkdown syntanx
+Using; 
+- HTML 
+- CSS 
+- JEKYLL MArkdown syntanx
