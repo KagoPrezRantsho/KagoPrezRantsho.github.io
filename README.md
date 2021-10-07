@@ -1,5 +1,5 @@
 # KagoPrezRantsho.github.io
-LAB 1 PROJET
+**LAB 1 PROJET**
 ## Creating Pages repository
 Adding diferent file types
 ### Desgning websites
