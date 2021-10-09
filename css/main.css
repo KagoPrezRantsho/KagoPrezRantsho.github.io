@@ -45,16 +45,20 @@ ul.posts li {
 #content {
 padding: 10px;
 }  
-#header{
+#header {
   background-color: #badeff;
   color: white;
   text-align: center;
 }  
-#container{
+#container {
   width: 800px;
   margin-left: auto;
   margin-right: auto;
 }
-nav{
+nav {
   width: 180px;
+  float: left;
+}
+main {
+  float:right;
 }
