@@ -75,4 +75,7 @@ padding: 10px;
 #nav ul{
   list-style-type: none;
   padding: 0px;
+  font-size: 3em;
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-weight: bold;
 }
