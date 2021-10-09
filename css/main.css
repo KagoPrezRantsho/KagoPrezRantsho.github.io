@@ -44,4 +44,9 @@ ul.posts {
 }
 ul.posts li {
   list-style: none;
+}
+#content {
+padding: 10px;
+}  
+  
 
